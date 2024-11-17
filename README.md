@@ -19,7 +19,6 @@
 [<img async src="./Icons/angular.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
 [<img async src="./Icons/git.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
 [<img async src="./Icons/docker.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
-[<img async src="./Icons/python.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
 [<img async src="./Icons/sql.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
 [<img async src="./Icons/redis.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
 [<img async src="./Icons/elk.svg" alt="C#" height="40">](https://github.com/ahmadsaadat1995)
